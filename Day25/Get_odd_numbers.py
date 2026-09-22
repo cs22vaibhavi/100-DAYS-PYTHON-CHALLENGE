@@ -1,0 +1,13 @@
+def get_odd_numbers(numbers):
+    odd_numbers = []
+
+    for number in numbers:
+        if number % 2 != 0:
+            odd_numbers.append(number)
+
+    return odd_numbers
+
+
+numbers = [1, 2, 3, 4, 5, 6, 7]
+
+print("Odd numbers =", get_odd_numbers(numbers))
