@@ -1,0 +1,8 @@
+def find_union(set1, set2):
+    return set1 | set2
+
+
+set1 = {1, 2, 3}
+set2 = {3, 4, 5}
+
+print("Union =", find_union(set1, set2))
