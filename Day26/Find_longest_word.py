@@ -8,6 +8,6 @@ def longest_word(words):
     return longest
 
 
-words = ["cat", "python", "apple", "computer"]
+words =["cat", "python", "apple", "computer"]
 
 print("Longest word =", longest_word(words))
