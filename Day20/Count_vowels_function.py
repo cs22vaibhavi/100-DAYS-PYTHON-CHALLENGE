@@ -7,6 +7,6 @@ def count_vowels(text):
 
     return count
 
-text = "Python Programming"
+text="Python Programming"
 
 print("Vowels =", count_vowels(text))
