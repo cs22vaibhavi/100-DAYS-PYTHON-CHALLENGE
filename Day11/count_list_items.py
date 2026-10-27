@@ -1,4 +1,4 @@
-items=["apple", "banana", "apple", "orange", "apple"]
+items=["apple","banana","apple","orange","apple"]
 
 count=items.count("apple")
 
