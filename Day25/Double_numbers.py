@@ -6,7 +6,6 @@ def double_numbers(numbers):
 
     return result
 
-
 numbers = [1, 2, 3, 4, 5]
 
 print("Doubled numbers =", double_numbers(numbers))
