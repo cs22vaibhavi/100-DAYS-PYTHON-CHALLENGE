@@ -1,4 +1,4 @@
-student = {
+student ={
     "name": "Vaibhavi",
     "age": 20,
     "course": "CSE"
