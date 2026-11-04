@@ -5,5 +5,4 @@ def check_palindrome(text):
         return "Not Palindrome"
 
 text = "madam"
-
 print(check_palindrome(text))
